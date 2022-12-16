@@ -7,6 +7,9 @@ public class SampleProg {
 		// TODO Auto-generated method stub
 System.out.println("Hi Welcome");
 
+
+
+
 System.out.println("i am Shubh");
 	}
 
